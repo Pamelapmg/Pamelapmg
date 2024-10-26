@@ -1,6 +1,6 @@
 # Pamelapmg
 ## Olá! meu nome é Pamela Moura.
-     🚀 Terceiro semestre de Análise e desenvolvimento de Sistemas.
+     🚀 Sexto semestre de Análise e desenvolvimento de Sistemas.
      🎯 Estudando Java
      📧 pamela.moura.goncalves@gmail.com
      
